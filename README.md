@@ -1,5 +1,6 @@
 # devops.aula02
 
 # Will Smith
-# Tom Cruise
+# Tom Cruise+
 # Matt Damon
+# Anelina Jolie
